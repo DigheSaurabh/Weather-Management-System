@@ -97,26 +97,6 @@ Follow the command-line prompts to:
 
 ---
 
-## Visual Demonstrations
-
-### Example CLI Interaction
-![CLI Interaction](https://via.placeholder.com/600x300?text=CLI+Interaction+Screenshot)
-_Illustration of CRUD operations performed through the command-line interface._
-
-### Database Schema
-![Database Schema](https://via.placeholder.com/600x400?text=Database+Schema)
-_Visual representation of the database schema, showing table relationships._
-
-### SQL Query Example
-![SQL Query Execution](https://via.placeholder.com/600x300?text=SQL+Query+Execution)
-_Output of an advanced SQL query demonstrating aggregated data._
-
-### Video Demonstration
-[![Watch the demo video](https://via.placeholder.com/600x300?text=Demo+Video+Placeholder)](https://www.youtube.com/watch?v=your-video-id)
-
-Click the thumbnail above to watch a demo video showcasing the project's features and functionality!
-
----
 
 ## Key Achievements
 - Automated alert generation using triggers.
